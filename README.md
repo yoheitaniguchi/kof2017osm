@@ -1,1 +1,1 @@
-# kof2017osm
+# Slide Template
