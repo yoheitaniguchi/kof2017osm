@@ -461,7 +461,7 @@ https://wacker.doorkeeper.jp/events/60642
 
 <div>
 
-![](img/kushimoto_20170603_pm1-5.JPG)
+![](img/kushimoto_20170603_pm1-5.jpg)
 
 </div>
 
