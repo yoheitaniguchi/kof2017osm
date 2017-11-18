@@ -1,9 +1,3 @@
----
-theme : "Night"
-transition: "slide"
-highlightTheme: "darkula"
----
-
 <div align="left">
   <small>
   関西オープンフォーラム2017　2017/11/11(土)<br>
